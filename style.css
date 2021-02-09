@@ -1,0 +1,11 @@
+.col-4 {
+  border: 1px solid black;
+  margin-top: 40px;
+  padding: 10px;
+  background-image: linear-gradient(#ffffff, #cfdef3);
+}
+#heading {
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
