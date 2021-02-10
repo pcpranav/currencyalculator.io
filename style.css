@@ -1,0 +1,21 @@
+.col-sm-4 {
+  border: 1px solid black;
+  margin-top: 40px;
+  padding: 10px;
+  background-image: linear-gradient(#ffffff, #cfdef3);
+  /* background-color: white; */
+}
+#heading {
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
